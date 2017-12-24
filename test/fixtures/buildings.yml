@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  num: 1
+  x_index: 1
+  y_index: 1
+  city: one
+
+two:
+  num: 1
+  x_index: 1
+  y_index: 1
+  city: two
